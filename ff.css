@@ -1,0 +1,16 @@
+.jj{
+    background-image: url(fastfood.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: last baseline;
+}
+.flex{
+   display: flex;
+    gap: 10px;
+    background-color: white;
+   padding: 15px;
+
+}

@@ -1,0 +1,183 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+button{
+    border: none;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    
+    
+}
+.nav-links{
+    display: flex;
+    gap: 20px;
+    
+    
+}
+.bk{
+   
+    align-items: center;
+    color: aliceblue;
+    font-size: 30px;
+    padding-left: 8%;
+    padding-top: 20%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+
+}
+.nav-link{
+    color: rgb(2, 13, 22);
+    text-decoration: none;
+}
+.ui{
+    padding-top: 0.5%;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+    padding-bottom: 0.5%;
+    font-size: 20px;
+}
+.hod{
+    padding-top: 7%;
+    padding-left: 8%;
+}
+.right{
+    display: flex;
+    justify-content: end;
+    padding-right: 5%;
+    text-decoration: none;
+}
+.op1{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 2%;
+    padding-left: 4%;
+}
+.kkk{
+    padding-top: 5%;
+    padding-left: 8%;
+}
+.beu{
+    padding-top: 7%;
+    padding-left: 8%;
+    
+    justify-content: space-between;
+    
+}
+.getty{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.color{
+   background-color: #f0f0f0;
+   opacity: 10px;
+}
+.gett{
+    padding-left: 3%;
+    gap: 50px;
+}
+#uj{
+    padding-top:20px;
+    padding-left:90px!important;
+    display: flex;
+    font-weight: 100;
+    
+}
+#js{
+    display: flex;
+    justify-content: end;
+    padding-right: 10%;
+    padding-left:30px!important
+}
+#vb{
+    padding-left: 80px;
+    font-weight: 100;
+}
+#hg{
+    padding-left: 80px;
+    font-weight: 100;
+}
+.xc{
+    padding-left: 80px;
+    font-size: 50px;
+    font-weight: 100;
+    
+}
+.tr{
+    display: flex;
+    justify-content: end;
+}
+.ds{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 500px;
+
+}
+.re{
+    padding-left: 80px;
+}
+#iu{
+    display: flex;
+    justify-content: end;
+    padding-right: 30px;
+}
+.gf{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 0px;
+}
+.qw{
+    display: flex;
+   
+}
+#sd{
+    font-weight: 100;
+}
+#mj{
+    font-weight: 100;
+}
+#kv{
+    font-weight: 100;
+}
+#bz{
+    font-weight: 100;
+}
+#vec{
+    position: absolute;
+
+}
+#vieo{
+    
+}
+.pseudo:hover{
+    background-color: aquamarine;
+    border-radius: 10%;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+#kdb:hover{
+    color: blue;
+    text-decoration: line-through;
+    font-size: 50px;
+}
+#focus:focus{
+    background-color: burlywood;
+    font-size: 10px;
+    box-shadow: 0 0 30px green;
+    transform: translate();
+}
+.em:nth-child(3 )   
+    
+    {
+   background-color: red;
+}
